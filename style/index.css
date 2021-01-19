@@ -10,4 +10,30 @@ a commment*/
 h1 {
     color: blue;
     color:  purple;
+    font-size: 40px;
+    font-weight: 300;
+    font-style: italic;
+    text-align: center;
+    background-color: aqua;
+}
+
+.quick-word {
+    color: indigo;
+}
+
+body {
+    background-image: url(../images/gr-stocks-q8P8YoR6erg-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+    background-attachment: fixed;
+    height: 200vh;
+}
+
+img {
+    border-width: 5px;
+    border-style: solid;
+    border-color: red;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px whitesmoke;
 }
